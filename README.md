@@ -1,36 +1,16 @@
-# flarum-lang-spanish (Archive)
+# flarumes/flarum-ext-spanish (Archive)
 
-> **Read-only archive of released versions for flarum-lang/spanish, flarumes/flarum-ext-spanish.** Not for installation: use Packagist or the [upstream repository](https://github.com/flarum-lang/spanish).
+> **Read-only archive of released versions of flarumes/flarum-ext-spanish.** Not for installation: use [Packagist](https://packagist.org/packages/flarumes/flarum-ext-spanish) or the [upstream repository](https://github.com/flarum-lang/spanish).
 
-**32** versions archived · Latest: [`1.0`](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.16`
-
-## Linked Packages
-
-This canonical archive repository hosts releases for the following Packagist packages:
-- [`flarum-lang/spanish`](https://packagist.org/packages/flarum-lang/spanish)
-- [`flarumes/flarum-ext-spanish`](https://packagist.org/packages/flarumes/flarum-ext-spanish)
+**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0` | 2021-04-07 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.0) |
-| `1.0.1` | 2021-04-25 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.0.1) |
-| `1.1.0` | 2021-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.0) |
-| `1.1.1` | 2021-06-21 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.1) |
-| `1.1.2` | 2021-06-27 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.2) |
-| `1.1.3` | 2021-08-25 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.3) |
-| `1.1.4` | 2021-09-20 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.4) |
-| `1.1.5` | 2021-10-15 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.5) |
-| `1.1.6` | 2021-11-20 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.6) |
-| `1.1.7` | 2021-12-10 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-spanish/tree/archive/v1.1.7) |
+| — | — | — | — |
 
-[View all 32 versions](https://github.com/flarchive/flarum-lang-spanish/tags)
-
-## Catalog entries
-
-- [`flarum-lang/spanish`](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-spanish.json)
-- [`flarumes/flarum-ext-spanish`](https://github.com/flarchive/archive-index/blob/main/packages/flarumes-flarum-ext-spanish.json)
+Catalog entry: [packages/flarum-lang-spanish.json](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-spanish.json)
 
 ## About this archive
 
